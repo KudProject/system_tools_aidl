@@ -9,7 +9,7 @@
 #include <android-base/parseint.h>
 #include <android-base/strings.h>
 
-#include "aidl_language_y.h"
+#include "aidl_language_y-module.h"
 #include "logging.h"
 
 #ifdef _WIN32
