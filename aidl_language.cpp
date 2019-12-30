@@ -16,7 +16,7 @@
 #include <android-base/parseint.h>
 #include <android-base/strings.h>
 
-#include "aidl_language_y.h"
+#include "aidl_language_y-module.h"
 #include "logging.h"
 #include "type_java.h"
 #include "type_namespace.h"
